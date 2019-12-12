@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<package>
+  <version>V2.2.0-191201</version>
+  <count>2</count>
+  <url1>http://192.168.1.115/update/update.apk</url1>
+  <url2>http://192.168.1.115/update/update.apk</url2>
+  <size>37052</size>
+  <lastModify>20191107</lastModify>
+  <description>test the update function</description>
+</package>
